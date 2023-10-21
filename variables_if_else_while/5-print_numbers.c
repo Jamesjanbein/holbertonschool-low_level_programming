@@ -5,7 +5,7 @@
  *
  * Description : all s digi nbs
  *
- * Return: always 0 
+ * Return: always 0 (Success) 
 */
 
 int main(void)
