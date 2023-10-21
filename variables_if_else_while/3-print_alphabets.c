@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main Entry point
+ * main - Entry point
  *
  * Description: print alphabet in lowercase then in uppercase
  *
@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	char ch 'a';
+	char ch = 'a';
 	char CH = 'A';
 
 	while (ch <= 'z')
