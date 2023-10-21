@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+  
 /**
  * main - entry point
  *
@@ -12,12 +12,12 @@ int main(void)
 {
 	int digit = 0;
 
-	while (digit <= 9)
+	while (digit <= 0)
 	{
-		printf("%i", digit);
+		putchar(digit + '0');
 		digit++;
 	}
-	printf("\n");
+	putchar('\n');
 
 	return (0);
 }
