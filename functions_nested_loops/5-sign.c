@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_sign - print 0 if zero prinf + if n is greater than zero , - if n is less than zero
+ * print_sign - print 0 if zero prinr than zero - if n is less than
  *
- * @c: input from functon
+ * @n: input from functon
  *
  * Return: 1 if +, 0 if 0 and -1 if -
 */
@@ -20,7 +20,7 @@ int print_sign(int n)
 		_putchar(48);
 		return (0);
 	}
-	else 
+	else
 	{
 		_putchar(45);
 		return (-1);
