@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _islower - check char is lower
+ * _islower: check char is lower
  *
  * @c: input
  *
