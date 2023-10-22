@@ -1,5 +1,5 @@
 #include "main.h"
-  
+
 /**
  * print_last_digit - ls dg of nb
  *
