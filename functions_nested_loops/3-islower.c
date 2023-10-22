@@ -6,6 +6,7 @@
  * @c: input
  *
  * return: always 0 (Success)
+           otherwise returns 1 if 'c' is lowercase
 */
 
 int _islower(int c)
