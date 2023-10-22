@@ -1,11 +1,12 @@
 #include "main.h"
 
 /**
- * _islower: check char is lower
+ * _islower - check char is lower
  *
  * @c: input
  *
- * return: always 0 (Success) , otherwise returns 1 if 'c' is_lower
+ * Return: returns 1 if 'c' is_lower
+	otherwise always 0 (Success)
 */
 
 int _islower(int c)
