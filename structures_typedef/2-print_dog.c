@@ -12,7 +12,7 @@ if (d == NULL)
 return;
 
 if ((*d).name == NULL)
-printf("nil\n");
+printf("null\n");
 else
 printf("Name: %s\n", d->name);
 
